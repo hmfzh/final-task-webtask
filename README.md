@@ -4,6 +4,9 @@
 ### Vidio Record 
 https://drive.google.com/file/d/1tp4DLeCrnnKAjXezMGhx19rSSIGabdQS/view?usp=sharing
 
+### YOUTUBE
+https://youtu.be/Kg7Puq_Q6Uw
+
 ## Tampilan Database
 ![image](https://github.com/user-attachments/assets/a8ec00eb-3c3c-4ca2-a2c3-460c5df001aa)
 ![image](https://github.com/user-attachments/assets/05f398dc-9e29-4e0d-948a-912be3909087)
